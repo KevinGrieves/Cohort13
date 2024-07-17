@@ -1,0 +1,42 @@
+* {
+	font-family: helvetica, arial, sans-serif;
+}
+
+body {
+	padding:0px;
+	margin:0px;
+}
+
+p, a, ul {
+	font-size:200%;
+}
+
+a {
+	text-decoration:none;
+	
+}
+
+a:hover {
+	color:green;
+}
+
+div {
+	padding:15px;
+}
+
+img {
+	margin:5px;
+}
+
+.btn {
+	background-color: lightblue;
+	color: blue;
+	border: 1px solid blue;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
